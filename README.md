@@ -2,6 +2,10 @@
 
 A modern, responsive, and feature-rich personal productivity application designed to help you manage your tasks with ease and style.
 
+# App preview
+
+![](./public/video-gif.gif)
+
 ## ✨ Features
 
 - **✅ Task Management**: Effortlessly add, complete, and delete tasks.
