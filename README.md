@@ -49,17 +49,17 @@ npm run dev
 ```
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the app.
 
-## 📜 Available Scripts
 
-- `npm run dev`: Starts the Vite development server with Hot Module Replacement (HMR).
-- `npm run build`: Compiles the application for production.
-- `npm run lint`: Runs ESLint to check for code quality issues.
-- `npm run preview`: Locally previews the production build.
+## Screenshots
 
-## 🎨 Design Philosophy
+## 1. Add your tasks easily
+![](./public/4.png)
 
-The app follows a **Modern Premium** aesthetic:
-- **Glassmorphism**: Subtle translucent backgrounds for a depth-filled interface.
-- **Dynamic Feedback**: Hover effects and animations that make the app feel alive.
-- **Clean Typography**: Using the 'Inter' font family for maximum readability.
-- **Accessibility**: High contrast ratios and intuitive navigation.
+## 2. Dark Mode & Light mode toggle
+![](./public/1.png)
+
+## 3. All tasks are stored in the localStorage of your browser
+![](./public/2.png)
+
+## 4. Get confetti animation on completing your tasks
+![](./public/3.png)
